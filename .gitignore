@@ -1,0 +1,8 @@
+.DS_Store
+
+# Ignore build artifacts
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
